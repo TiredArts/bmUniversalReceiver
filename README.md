@@ -1,2 +1,3 @@
 # bmUniversalReceiver
-A back- and forward-port mod of Blood Magic's 1.7.10 and 1.20.1+ content to 1.12.2
+A back- and forward-port mod of Blood Magic's 1.7.10 and 1.20.1+ content to 1.12.2</br>
+<em>Start Date: 03-19-2026 | Heavy WIP, placeholder git</em></br>
